@@ -4,3 +4,7 @@ body{
 }
 section.presentacion__contenido{
 }
+input.presentacion__contenido__input{
+    width: 60%;
+    height: 500px;
+}
