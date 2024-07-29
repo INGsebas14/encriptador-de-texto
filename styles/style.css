@@ -2,6 +2,13 @@ body{
     background-color: #AAB2D5;
     color: #F6F6F6;
 }
+main.presentacion{
+    display: flex;
+    align-items: center;
+    padding: 5% 0% 0% 10% ;
+    justify-content: space-between;
+    gap: 82px;
+}
 section.presentacion__contenido{
 }
 input.presentacion__contenido__input{
