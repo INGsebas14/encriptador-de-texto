@@ -30,6 +30,8 @@ section.presentacion__contenido{
 input.presentacion__contenido__input{
     width: 110%;
     height: 500px;
+    background-color:#AAB2D5;
+    border: #AAB2D5;
 }
 ::placeholder{
     color: #0A3871;
