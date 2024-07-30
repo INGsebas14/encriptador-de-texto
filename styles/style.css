@@ -61,7 +61,8 @@ button.presentacion__contenido__button{
 section.presentacion__contenido__second{
     width: 400px;
     height: 944px;
-    background-color: #FFFFFF;
+    background-color: #ffffff;
+    border-radius: 2rem;
 }
 h2{
     color: #343A40;
