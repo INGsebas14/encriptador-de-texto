@@ -30,7 +30,7 @@ section.presentacion__contenido{
 }
 input.presentacion__contenido__input{
     width: 110%;
-    height: 500px;
+    height: 944px;
     font-size: 2rem;
     background-color:#AAB2D5;
     border: #AAB2D5;
@@ -57,4 +57,9 @@ button.presentacion__contenido__button{
     border-color: #0A3871;
     background-color: #FFFFFF;
     color: #0A3871;
+}
+section.presentacion__contenido__second{
+    width: 400px;
+    height: 944px;
+    background-color: #FFFFFF;
 }
