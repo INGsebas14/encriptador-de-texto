@@ -2,6 +2,10 @@ body{
     background-color: #AAB2D5;
     color: #F6F6F6;
 }
+img.header__menu__imagen{
+    width: 120px;
+    height: 48px;
+}
 main.presentacion{
     display: flex;
     align-items: center;
