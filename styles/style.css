@@ -29,3 +29,11 @@ button.presentacion__contenido__button__1{
     background-color: #0A3871;
     color: #FFFFFF;
 }
+button.presentacion__contenido__button{
+    padding: 1.5rem;
+    border-radius: 1.5rem;
+    font-size: 1rem;
+    border-color: #0A3871;
+    background-color: #FFFFFF;
+    color: #0A3871;
+}
