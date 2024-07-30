@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Inter:wght@100..900&display=swap');
+:root{
+    --fuente-inter:"Inter", sans-serif;
+}
 *{
     padding: 0;
     margin: 0;
@@ -32,7 +35,7 @@ button.presentacion__contenido__button__1{
     padding: 1.5rem;
     border-radius: 1.5rem;
     font-size: 1rem;
-    font-family: "Inter", sans-serif;
+    font-family: var(--fuente-inter);
     background-color: #0A3871;
     color: #FFFFFF;
 }
@@ -40,7 +43,7 @@ button.presentacion__contenido__button{
     padding: 1.5rem;
     border-radius: 1.5rem;
     font-size: 1rem;
-    font-family: "Inter", sans-serif;
+    font-family: var(--fuente-inter);
     border-color: #0A3871;
     background-color: #FFFFFF;
     color: #0A3871;
