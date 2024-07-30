@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Inter:wght@100..900&display=swap');
 :root{
-    --fuente-inter:"Inter", sans-serif;
+    --fuente-inter: "Inter", sans-serif;;
 }
 *{
     padding: 0;
@@ -66,4 +66,5 @@ section.presentacion__contenido__second{
 }
 h2{
     color: #343A40;
+    font-family: var(--fuente-inter);
 }
