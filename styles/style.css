@@ -32,6 +32,7 @@ input.presentacion__contenido__input{
     height: 500px;
 }
 button.presentacion__contenido__button__primary{
+    width: 50%;
     padding: 1.5rem;
     border-radius: 1.5rem;
     font-size: 1rem;
@@ -40,6 +41,7 @@ button.presentacion__contenido__button__primary{
     color: #FFFFFF;
 }
 button.presentacion__contenido__button{
+    width: 50%;
     padding: 1.5rem;
     border-radius: 1.5rem;
     font-size: 1rem;
