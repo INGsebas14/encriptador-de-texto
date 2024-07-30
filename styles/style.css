@@ -28,8 +28,12 @@ section.presentacion__contenido{
     display: flex;
 }
 input.presentacion__contenido__input{
-    width: 60%;
+    width: 110%;
     height: 500px;
+}
+::placeholder{
+    color: #0A3871;
+    font-size: 2rem;
 }
 button.presentacion__contenido__button__primary{
     width: 50%;
