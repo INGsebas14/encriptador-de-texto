@@ -23,3 +23,9 @@ input.presentacion__contenido__input{
     width: 60%;
     height: 500px;
 }
+button.presentacion__contenido__button__1{
+    padding: 1.5rem;
+    border-radius: 1.5rem;
+    background-color: #0A3871;
+    color: #FFFFFF;
+}
