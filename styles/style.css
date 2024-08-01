@@ -39,6 +39,11 @@ input.presentacion__contenido__input{
     color: #0A3871;
     font-size: 2rem;
 }
+div.presentacion__contenido__botones{
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+}
 button.presentacion__contenido__button__primary{
     width: 328px;
     padding: 1.5rem;
@@ -67,6 +72,8 @@ section.presentacion__contenido__second{
 h2{
     color: #343A40;
     font-family: var(--fuente-inter);
+    text-align: center;
+    padding: 1rem;
 }
 p{
     color: #343A40;
