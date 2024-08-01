@@ -69,6 +69,10 @@ section.presentacion__contenido__second{
     background-color: #ffffff;
     border-radius: 2rem;
 }
+img.presentacion__contenido__second__img{
+    padding-left: 2rem;
+    padding-top: 15.28rem;
+}
 h2{
     color: #343A40;
     font-family: var(--fuente-inter);
