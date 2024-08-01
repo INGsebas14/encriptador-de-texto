@@ -91,3 +91,15 @@ p{
     padding-top: 1rem;
     text-align: center;
 }
+button.presentacion__contenido__button__second{
+    width: 328px;
+    padding: 1.5rem;
+    border-radius: 1.5rem;
+    font-size: 1rem;
+    font-family: var(--fuente-inter);
+    border-color: #0A3871;
+    background-color: #FFFFFF;
+    color: #0A3871;
+    margin: 2rem;
+    margin-top: 8rem;
+}
