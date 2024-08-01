@@ -79,6 +79,7 @@ h2{
     font-family: var(--fuente-inter);
     text-align: center;
     padding: 1rem;
+    padding-bottom: 0;
 }
 p{
     color: #343A40;
