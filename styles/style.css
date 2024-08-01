@@ -84,4 +84,8 @@ p{
     color: #343A40;
     font-size: 1rem;
     font-family: var(--fuente-inter);
+    padding-left: 2rem ;
+    padding-right: 2rem;
+    padding-top: 1rem;
+    text-align: center;
 }
