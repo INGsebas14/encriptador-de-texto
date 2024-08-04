@@ -69,6 +69,7 @@ button.presentacion__contenido__button{
     border-color: #0A3871;
     background-color: #FFFFFF;
     color: #0A3871;
+    border:  1px solid #0A3871;
 }
 section.presentacion__contenido__second{
     width: 400px;
