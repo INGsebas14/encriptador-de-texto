@@ -102,4 +102,5 @@ button.presentacion__contenido__button__second{
     color: #0A3871;
     margin: 2rem;
     margin-top: 8rem;
+    display: none;
 }
