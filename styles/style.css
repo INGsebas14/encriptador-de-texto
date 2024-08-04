@@ -24,7 +24,7 @@ main.presentacion{
 }
 section.presentacion__contenido{
     width: 50%;
-    gap: 40px;
+    gap: 16px;
     flex-direction: column;
     display: flex;
 }
@@ -40,6 +40,11 @@ input.presentacion__contenido__input{
 ::placeholder{
     color: #0A3871;
     font-size: 2rem;
+}
+p.presentacion__contenido__parrafo{
+    font-size: 0.75rem;
+    text-align: left;
+    margin: 0;
 }
 div.presentacion__contenido__botones{
     display: flex;
