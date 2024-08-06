@@ -35,7 +35,7 @@ input.presentacion__contenido__input{
     background-color:#AAB2D5;
     border: #AAB2D5;
     padding-left: 240px;
-    padding-right: 80px;
+    margin-right: 80px;
 }
 ::placeholder{
     color: #0A3871;
